@@ -1,0 +1,85 @@
+h1 {
+  font-size: 3rem;
+  margin-bottom: 30px;
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+h2 {
+  margin-top: 10px;
+  font-family: 'Balsamiq Sans', cursive;
+
+}
+
+h3 {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.brand {
+  font-family: 'Grandstander', cursive;
+}
+
+.treeImage {
+  height: 400px;
+}
+
+.container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.feature-box {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.container-fluid {
+  padding-top: 50px;
+  background-color: #ADD8E6;
+}
+
+.testimonial-image {
+  width: 9%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 10%;
+}
+
+.gap {
+  height: 1rem;
+  background-color: #1b262c;
+}
+
+.price-card {
+  padding: 100px;
+  text-align: center;
+}
+
+.signup-button {
+  width: 100%;
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+.card {
+  background-color: #45b4d4;
+}
+.out
+{
+  background-color:#b6eb7a;
+  text-align: center;
+}
+.button-out
+{
+  margin-bottom: 20px
+}
+#testimonials {
+  background-color: #b6eb7a;
+  text-align: center;
+}
+
+#pricing {
+  background-color: #ADD8E6;text-align: center;
+}
